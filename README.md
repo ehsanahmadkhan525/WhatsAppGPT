@@ -6,7 +6,7 @@ The WhatsAppGPT Bot is an innovative solution that integrates OpenAI's powerful 
 
 ## Features
 
-- **Advanced Chat Interaction**: Seamlessly processes and responds to user messages on WhatsApp in real-time.
+- **Advanced ChatInteraction**: Seamlessly processes and responds to user messages on WhatsApp in real-time.
 - **Intelligent Response Generation**: Utilizes OpenAI's GPT model to generate contextually relevant and coherent responses.
 - **WhatsApp Webhook Integration**: Efficiently handles incoming messages through WhatsApp webhook mechanism.
 - **Automated Message Handling**: Offers automated responses to user queries, enhancing engagement.
